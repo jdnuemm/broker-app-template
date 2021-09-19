@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Run inside the virtual environment where you can call flask to work inside your application context.
+# Deployment Settings are pass as environment variables
+echo "Hello from the post deploy hook!"
+env

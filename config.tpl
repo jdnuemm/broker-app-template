@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-
-
-# Basic App Settings
-
+DEBUG = False
+SECRET_KEY = "$BS_RANDOM"
+MONGO_DB = "$BS_DB"

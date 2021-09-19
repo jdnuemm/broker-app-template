@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+# Cron scripts run inside the virtual environment where you can call flask to work inside your application context.

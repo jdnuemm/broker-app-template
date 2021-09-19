@@ -1,8 +1,8 @@
 *.cfg
 env/*
+python-venv
 build/*
 *.swp
-tmp/*
 cache/*
 application/cache/*
 
@@ -13,7 +13,6 @@ application/static/media/*
 application/translation/*
 app_cache/*
 
-data/*
 
 # Compiled source #
 ###################
